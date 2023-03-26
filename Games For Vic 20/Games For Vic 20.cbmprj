@@ -48,6 +48,7 @@
         <FileName>VE_P9.bas</FileName>
         <FileName>VE_CoinToss.bas</FileName>
         <FileName>VE_The500.bas</FileName>
+        <FileName>VE_GreatDuckRace.bas</FileName>
     </BuildList>
     <DetermineBuildOrder>0</DetermineBuildOrder>
     <PaddingByte>234</PaddingByte>
@@ -59,6 +60,17 @@
     <SourceFiles>
         <SourceFile>
             <Name>VE_CoinToss.bas</Name>
+            <PrgName />
+            <FileType>1</FileType>
+            <IncludeInBuild>True</IncludeInBuild>
+            <Regions />
+            <Breakpoints />
+            <Bookmarks />
+            <Topmost>False</Topmost>
+            <FileOpen>True</FileOpen>
+        </SourceFile>
+        <SourceFile>
+            <Name>VE_GreatDuckRace.bas</Name>
             <PrgName />
             <FileType>1</FileType>
             <IncludeInBuild>True</IncludeInBuild>
